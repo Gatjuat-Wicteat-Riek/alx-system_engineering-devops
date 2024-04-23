@@ -27,4 +27,4 @@ Email: *gatjuatriek@gmail.com*
 
 ## Collaborate
 
-To collaborate, reach me through my email address gatjuatriek@gmail.com
+To collaborate, reach me through my email address gatjuatriek@gmail.com. Dont hesitate to reach me out for any collaboration
