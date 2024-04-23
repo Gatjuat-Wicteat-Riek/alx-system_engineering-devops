@@ -1,4 +1,4 @@
-# Project Name.
+i# Project Name.
 **0x15. API**
 
 ## Author's Details.
@@ -146,4 +146,4 @@ Pythonic Constant name style. Significance of CapWords or CamelCase in Python.
 
 ## Collaborate
 
-To collaborate, reach me through my email address gatjuatriek@gmail.com.
+To collaborate, reach me through my email address gatjuatriek@gmail.com and feel free to collaborate with me. Thank u inadvance
