@@ -20,7 +20,3 @@ def number_of_subscribers(subreddit):
         return 0
     
     return subscribers
-
-# Example usage:
-# subscribers = number_of_subscribers('python')
-# print(f"Subreddit 'python' has {subscribers} subscribers.")
